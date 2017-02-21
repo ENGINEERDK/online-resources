@@ -1,3 +1,9 @@
+## News / Articles
+- [Linux.com] (https://www.linux.com/news)
+- [FOSS Mint] (https://www.fossmint.com/?_ga=1.157262075.1342065836.1472017727)
+- [Embedded.com] (http://www.embedded.com/news/all)
+- [IEEE Spectrum] (http://spectrum.ieee.org/computing/embedded-systems)
+
 ## online-courses
 ### edx
 - [Embedded Systems - Shape The World] (https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
