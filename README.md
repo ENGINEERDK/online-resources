@@ -5,9 +5,11 @@
 - [IEEE Spectrum] (http://spectrum.ieee.org/computing/embedded-systems)
 - [EFY] (http://electronicsforu.com/)
 - [Electronics Weekly] (http://www.electronicsweekly.com/market-sectors/embedded-systems/)
+- [Open Source for you] (http://opensourceforu.com/2014/03/building-embedded-system-based-initial-ram-disk/)
+- [Tech News] (http://tech.firstpost.com/category/news-analysis)
 
 
-## online-courses
+## Online courses
 
 ### edx
 - [Embedded Systems - Shape The World] (https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
