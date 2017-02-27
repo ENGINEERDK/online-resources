@@ -7,6 +7,7 @@
 - [Electronics Weekly] (http://www.electronicsweekly.com/market-sectors/embedded-systems/)
 - [Open Source for you] (http://opensourceforu.com/2014/03/building-embedded-system-based-initial-ram-disk/)
 - [Tech News] (http://tech.firstpost.com/category/news-analysis)
+- [New Electronics] (http://www.newelectronics.co.uk/electronics-news/)
 
 
 ## Online courses
