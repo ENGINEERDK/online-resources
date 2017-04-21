@@ -10,7 +10,18 @@
 - [New Electronics](http://www.newelectronics.co.uk/electronics-news/)
 - [TCP/IP](https://www.pluralsight.com/blog/it-ops/networking-basics-tcp-udp-tcpip-osi-models)
 
+## Blogs
+- [Kyle Manna](https://blog.kylemanna.com/)
+- [optixx](http://optixx.org/)
+- [How To Mechatronics](http://howtomechatronics.com/)
+- [Edgefex](https://www.edgefx.in/know-about-boot-loader-technique-for-programming-microcontroller/)
+- [Instructables](http://www.instructables.com/)
+- [DZone](https://dzone.com/)
+
 ## Online courses
+- [Barr group](https://barrgroup.com/Embedded-Systems/Training-Courses/Embedded-Software-Boot-Camp)
+- [UCI](https://ce.uci.edu/areas/engineering/embedded/courses.aspx)
+
 
 ### edx
 - [Embedded Systems - Shape The World](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
