@@ -1,27 +1,6 @@
-## News / Articles
-- [Linux.com](https://www.linux.com/news)
-- [FOSS Mint](https://www.fossmint.com/?_ga=1.157262075.1342065836.1472017727)
-- [Embedded.com](http://www.embedded.com/news/all)
-- [IEEE Spectrum](http://spectrum.ieee.org/computing/embedded-systems)
-- [EFY](http://electronicsforu.com/)
-- [Electronics Weekly](http://www.electronicsweekly.com/market-sectors/embedded-systems/)
-- [Open Source for you](http://opensourceforu.com/2014/03/building-embedded-system-based-initial-ram-disk/)
-- [Tech News](http://tech.firstpost.com/category/news-analysis)
-- [New Electronics](http://www.newelectronics.co.uk/electronics-news/)
-- [TCP/IP](https://www.pluralsight.com/blog/it-ops/networking-basics-tcp-udp-tcpip-osi-models)
-
-## Blogs
-- [Kyle Manna](https://blog.kylemanna.com/)
-- [optixx](http://optixx.org/)
-- [How To Mechatronics](http://howtomechatronics.com/)
-- [Edgefex](https://www.edgefx.in/know-about-boot-loader-technique-for-programming-microcontroller/)
-- [Instructables](http://www.instructables.com/)
-- [DZone](https://dzone.com/)
-
 ## Online courses
 - [Barr group](https://barrgroup.com/Embedded-Systems/Training-Courses/Embedded-Software-Boot-Camp)
 - [UCI](https://ce.uci.edu/areas/engineering/embedded/courses.aspx)
-
 
 ### edx
 - [Embedded Systems - Shape The World](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
@@ -41,3 +20,23 @@
 - [Web Connectivity and Security in Embedded Systems](https://www.coursera.org/learn/iot-connectivity-security)
 - [Internet of Things: How did we get here?](https://www.coursera.org/learn/internet-of-things-history)
 - [Internet of Things & Augmented Reality Emerging Technologies](https://www.coursera.org/learn/iot-augmented-reality-technologies)
+
+## News / Articles
+- [Linux.com](https://www.linux.com/news)
+- [FOSS Mint](https://www.fossmint.com/?_ga=1.157262075.1342065836.1472017727)
+- [Embedded.com](http://www.embedded.com/news/all)
+- [IEEE Spectrum](http://spectrum.ieee.org/computing/embedded-systems)
+- [EFY](http://electronicsforu.com/)
+- [Electronics Weekly](http://www.electronicsweekly.com/market-sectors/embedded-systems/)
+- [Open Source for you](http://opensourceforu.com/2014/03/building-embedded-system-based-initial-ram-disk/)
+- [Tech News](http://tech.firstpost.com/category/news-analysis)
+- [New Electronics](http://www.newelectronics.co.uk/electronics-news/)
+- [TCP/IP](https://www.pluralsight.com/blog/it-ops/networking-basics-tcp-udp-tcpip-osi-models)
+
+## Blogs
+- [Kyle Manna](https://blog.kylemanna.com/)
+- [optixx](http://optixx.org/)
+- [How To Mechatronics](http://howtomechatronics.com/)
+- [Edgefex](https://www.edgefx.in/know-about-boot-loader-technique-for-programming-microcontroller/)
+- [Instructables](http://www.instructables.com/)
+- [DZone](https://dzone.com/)
