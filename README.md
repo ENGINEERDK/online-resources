@@ -7,19 +7,21 @@
 - [Real-Time Bluetooth Networks - Shape the World](https://www.edx.org/course/real-time-bluetooth-networks-shape-world-utaustinx-ut-rtbn-12-01x)
 
 ### Coursera
-- [Introduction to the Internet of Things and Embedded Systems](https://www.coursera.org/learn/iot)
 - [Interfacing with the Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-interface/home/welcome)
 - [The Raspberry Pi Platform and Python Programming for the Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-platform)
 - [Interfacing with the Arduino](https://www.coursera.org/learn/interface-with-arduino/home/welcome)
 - [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 - [Embedded Hardware and Operating Systems](https://www.coursera.org/learn/embedded-operating-system)
 - [Development of Real-Time Systems](https://www.coursera.org/learn/real-time-systems)
-- [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture/home/welcome)
-- [IBM - A developer's guide to the Internet of Things](https://www.coursera.org/learn/developer-iot/home/welcome)
-- [Programming for the Internet of Things Project](https://www.coursera.org/learn/internet-of-things-project)
 - [Web Connectivity and Security in Embedded Systems](https://www.coursera.org/learn/iot-connectivity-security)
+
+- [IBM - A developer's guide to the Internet of Things](https://www.coursera.org/learn/developer-iot/home/welcome)
+- [Introduction to the Internet of Things and Embedded Systems](https://www.coursera.org/learn/iot)
+- [Programming for the Internet of Things Project](https://www.coursera.org/learn/internet-of-things-project)
+- [Internet of Things: Setting Up Your DragonBoard™ Development Platform](https://www.coursera.org/specializations/internet-of-things)
 - [Internet of Things: How did we get here?](https://www.coursera.org/learn/internet-of-things-history)
 - [Internet of Things & Augmented Reality Emerging Technologies](https://www.coursera.org/learn/iot-augmented-reality-technologies)
+- [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture/home/welcome)
 
 ## News / Articles
 - [Linux.com](https://www.linux.com/news)
