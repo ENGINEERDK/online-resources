@@ -41,7 +41,6 @@
 - [optixx](http://optixx.org/)
 - [How To Mechatronics](http://howtomechatronics.com/)
 - [Edgefex](https://www.edgefx.in/know-about-boot-loader-technique-for-programming-microcontroller/)
-- [Instructables](http://www.instructables.com/)
 - [DZone](https://dzone.com/)
 - [instructables](http://www.instructables.com/class/Raspberry-Pi-Class/)
 - [hackster io](https://www.hackster.io/raspberry-pi)
